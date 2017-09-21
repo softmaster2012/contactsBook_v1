@@ -1,1 +1,12 @@
 C:\Users\student\Downloads\ContactsBook_v1\ContactsBook_v1\bin\Debug\ContactsBook_v1.exe.config
+D:\Gavrylchenko\contactsBook_v1\ContactsBook_v1\bin\Debug\ContactsBook_v1.exe.config
+D:\Gavrylchenko\contactsBook_v1\ContactsBook_v1\bin\Debug\ContactsBook_v1.exe
+D:\Gavrylchenko\contactsBook_v1\ContactsBook_v1\bin\Debug\ContactsBook_v1.pdb
+D:\Gavrylchenko\contactsBook_v1\ContactsBook_v1\obj\Debug\ContactsBook_v1.csprojResolveAssemblyReference.cache
+D:\Gavrylchenko\contactsBook_v1\ContactsBook_v1\obj\Debug\ContactsBook_v1.Editor.resources
+D:\Gavrylchenko\contactsBook_v1\ContactsBook_v1\obj\Debug\ContactsBook_v1.Form1.resources
+D:\Gavrylchenko\contactsBook_v1\ContactsBook_v1\obj\Debug\ContactsBook_v1.Login.resources
+D:\Gavrylchenko\contactsBook_v1\ContactsBook_v1\obj\Debug\ContactsBook_v1.Properties.Resources.resources
+D:\Gavrylchenko\contactsBook_v1\ContactsBook_v1\obj\Debug\ContactsBook_v1.csproj.GenerateResource.Cache
+D:\Gavrylchenko\contactsBook_v1\ContactsBook_v1\obj\Debug\ContactsBook_v1.exe
+D:\Gavrylchenko\contactsBook_v1\ContactsBook_v1\obj\Debug\ContactsBook_v1.pdb
