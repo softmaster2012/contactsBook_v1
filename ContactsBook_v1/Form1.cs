@@ -16,5 +16,19 @@ namespace ContactsBook_v1
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            Form login = new Login();
+            DialogResult res = login.ShowDialog();
+            if (res == DialogResult.OK)
+            {
+
+            }
+            else
+            {
+                this.Close();
+            }
+        }
     }
 }
